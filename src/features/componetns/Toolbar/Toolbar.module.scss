@@ -1,0 +1,11 @@
+.toolbar {
+  background: #d7d7d7;
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  &__iconBtn {
+    padding: 1em;
+    cursor: pointer;
+  }
+}
